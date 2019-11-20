@@ -2,7 +2,7 @@
 Introduction
 
 ## data
-
+![Image text](https://github.com/HickeyHsu/GHPR_dataset/blob/master/dataset_columns.jpg)
 ## Requirements
 
 ## Quick Start
